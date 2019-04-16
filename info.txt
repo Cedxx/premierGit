@@ -1,1 +1,3 @@
 Premier projet GIT, création d'un script basique pour l'exemple.
+
+Pour ce premier test je rajoute quelques lignes de texte afin de tester les différents commit
