@@ -1,0 +1,1 @@
+Premier projet GIT, création d'un script basique pour l'exemple.
