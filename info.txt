@@ -1,3 +1,5 @@
 Premier projet GIT, création d'un script basique pour l'exemple.
 
 Pour ce premier test je rajoute quelques lignes de texte afin de tester les différents commit
+
+Voila, fin du premier projet, création d'un code JS avec balise HTML et Header et le script Hello World en français.
